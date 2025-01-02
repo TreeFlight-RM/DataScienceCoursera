@@ -1,0 +1,14 @@
+---
+title: "HelloWorld"
+output: html_document
+date: "2025-01-01"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Line for JH Data Science Course on Coursera - Module 4 Course Project:
+
+
+## This is a markdown file
